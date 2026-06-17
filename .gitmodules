@@ -1,0 +1,9 @@
+[submodule "NexTrade-Backend"]
+	path = NexTrade-Backend
+	url = https://github.com/Alqamaafzalcmd/NexTrade-Backend.git
+[submodule "NexTrade-Dashboard"]
+	path = NexTrade-Dashboard
+	url = https://github.com/Alqamaafzalcmd/NexTrade-Dashboard.git
+[submodule "NexTrade-Frontend"]
+	path = NexTrade-Frontend
+	url = https://github.com/Alqamaafzalcmd/NexTrade-Frontend.git
